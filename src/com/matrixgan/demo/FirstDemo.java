@@ -6,5 +6,6 @@ public class FirstDemo {
 		result = x+ y;
 		System.out.println("hello"); 
 		System.out.println(result);
+		System.out.println("commit two");
 	}
 }
